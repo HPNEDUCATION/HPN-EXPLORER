@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216375500012",
+    "project_id": "bara-beehti",
+    "storage_bucket": "bara-beehti.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216375500012:android:e797d42c953ad4706859c9",
+        "android_client_info": {
+          "package_name": "com.hpn.barabeehti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzCTNsjtFViX6sCfwRgv0CARHHHft7B6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
